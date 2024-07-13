@@ -7,7 +7,7 @@
 <p>&nbsp;</p>
 
 <p><span style="font-size:16px"><strong><span style="font-family:Tahoma,Geneva,sans-serif">Сертификаты Нетологии</span></strong></span></p>
-
+<p><a href="https://github.com/AndreyBormotov/CertificateNetology">Разработка 1С</a></p>
 <p>&nbsp;</p>
 
 <p><strong><span style="font-size:16px"><span style="font-family:Tahoma,Geneva,sans-serif">ПрочиеСертификаты</span></span></strong></p>
