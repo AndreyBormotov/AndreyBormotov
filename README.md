@@ -7,5 +7,5 @@
 <h2><strong>Мои сертификаты Нетологии:</strong></h2>
 </p> <p>&bull; <a href="https://github.com/AndreyBormotov/CertificateNetology">Разработка 1С</a></p>
 <h2><strong>Прочие сертификаты:</strong></h2>
-<p>&bull;</p>
-<p>&bull;</p>
+</p> <p>&bull; <a href="https://github.com/AndreyBormotov/Certificate_DialogPRO">Сертификаты ДиалолПРО</a></p>
+
