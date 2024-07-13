@@ -1,5 +1,5 @@
 <h2><strong>Привет!</strong></h2>
-<h4>Я <strong>Андрей Бормотов</strong>, начинающий 1С-разработчик.</h4>
+<p>Я <strong>Андрей Бормотов</strong>, начинающий 1С-разработчик.</p>
 <h2><strong>Вот что я умею:</strong></h2>
 <h2><strong>Мои сертификаты Нетологии:</strong></h2>
 <p><a href="https://github.com/AndreyBormotov/CertificateNetology">Разработка 1С</a></p>
