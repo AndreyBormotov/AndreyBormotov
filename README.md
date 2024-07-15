@@ -1,6 +1,6 @@
 <h2><strong>Привет!</strong></h2>
 <p>Я <strong>Андрей Бормотов</strong>, начинающий 1С-разработчик.</p>
-<h2><strong>Вот что я умею:</strong></h2>
+
 <p>&bull;</p>
 <p>&bull;</p>
 <p>&bull;</p>
