@@ -1,7 +1,7 @@
 <h2><strong>Привет!</strong></h2>
 <p>Я <strong>Андрей Бормотов</strong>, начинающий 1С-разработчик.</p>
 <h2><strong>Вот что я умею:</strong></h2>
-</p> <p>&bull; <a href="https://github.com/AndreyBormotov/CertificateNetology">Домашние задания Нетологии</a></p>
+</p> <p>&bull; <a href="https://github.com/AndreyBormotov/Netology_Homework">Домашние задания Нетологии</a></p>
 <p>&bull;</p>
 <p>&bull;</p>
 <h2><strong>Мои сертификаты Нетологии:</strong></h2>
