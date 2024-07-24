@@ -3,7 +3,7 @@
 <h2><strong>Вот что я умею:</strong></h2>
 </p> <p>&bull; <a href="https://github.com/AndreyBormotov/Netology_Homework/blob/main/README.md">Домашние задания Нетологии</a></p>
 <h2><strong>Мои сертификаты Нетологии:</strong></h2>
-</p> <p>&bull; <a href="https://github.com/AndreyBormotov/CertificateNetology">Разработка 1С</a></p>
+</p> <p>&bull; <a href="https://github.com/AndreyBormotov/CertificateNetology/blob/main/README.md">Разработка 1С</a></p>
 <h2><strong>Прочие сертификаты:</strong></h2>
-</p> <p>&bull; <a href="https://github.com/AndreyBormotov/Certificate_DialogPRO">Сертификаты Диалог ПРО</a></p>
+</p> <p>&bull; <a href="https://github.com/AndreyBormotov/Certificate_DialogPRO/blob/main/README.md">Сертификаты Диалог ПРО</a></p>
 <p>&bull;</p>
