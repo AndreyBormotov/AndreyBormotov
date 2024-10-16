@@ -6,7 +6,6 @@
 
 (Окончание в октябре 2025 года).
 
-Страничка находится в разработке и постоянно пополняется.
 
 <h2><strong>Вот что я умею:</strong></h2>
 </p> <p>&bull; <a href="https://github.com/AndreyBormotov/Netology_Homework/blob/main/README.md">Задания Нетологии</a></p>
