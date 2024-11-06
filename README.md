@@ -9,8 +9,9 @@
 
 <h2><strong>Вот что я умею:</strong></h2>
 </p> <p>&bull; <a href="https://github.com/AndreyBormotov/Netology_Homework/blob/main/README.md">Задания Нетологии</a></p>
-<h2><strong>Сертификты о прохождении блоков обучения:</strong></h2>
-</p> <p>&bull; <a href="https://github.com/AndreyBormotov/CertificateNetology/blob/main/README.md">Разработка 1С</a></p>
+<h2><strong>Сертификты/удостоверения о прохождении блоков обучения:</strong></h2>
+</p> <p>&bull; <a href="https://github.com/AndreyBormotov/CertificateNetology/blob/main/README.md">Нетология</a></p>
+</p> <p>&bull; <a href="https://github.com/AndreyBormotov/CertificateUC1C/blob/main/README.md">Учебный центр 1С</a></p>
 <h2><strong>Прочие сертификаты:</strong></h2>
 </p> <p>&bull; <a href="https://github.com/AndreyBormotov/Certificate_DialogPRO/blob/main/README.md">Сертификаты Диалог ПРО</a></p>
 <p>&bull;</p>
