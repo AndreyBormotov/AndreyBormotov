@@ -8,7 +8,7 @@
 
 
 <h2><strong>Вот что я умею:</strong></h2>
-</p> <p>&bull; <a href="https://github.com/AndreyBormotov/Netology_Homework/blob/main/README.md">Итоговые работы Нетологии по блокам</a></p>
+</p> <p>&bull; <a href="https://github.com/AndreyBormotov/Netology_Homework/blob/main/README.md">Самостоятельные работы Нетологии по блокам</a></p>
 </p> <p>&bull; <a href="https://github.com/AndreyBormotov/TestWork/blob/main/README.md">Выполненые тестовые задания</a></p>
 <!-- <p>Могу похвастать выполненными <a href="https://github.com/AndreyBormotov/Netology_Homework/blob/main/README.md">тестовыми заданиями</a></p>-->
 <h2><strong>Сертификты/удостоверения о прохождении блоков обучения:</strong></h2>
